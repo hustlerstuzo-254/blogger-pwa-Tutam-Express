@@ -1,15 +1,15 @@
 {
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
-  "dir": "auto",
-  "lang": "en-US",
+  "name": "Tutam Express",
+  "short_name": "Tutam",
+  "description": "Latest news in politics, business, technology, sports and entertainment in Kenya, Africa and the world.",
+  "dir": "ltr",
+  "lang": "en-KE",
   "background_color": "#fff",
-  "theme_color": "#fff",
+  "theme_color": "#064e3b",
   "display": "standalone",
   "orientation": "natural",
-  "scope": "https://blogger-pwa.blogspot.com/",
-  "start_url": "https://blogger-pwa.blogspot.com/?utm_source=homescreen",
+  "scope": "https://tutamexpress.blogspot.com/",
+  "start_url": "https://tutamexpress.blogspot.com/?utm_source=homescreen",
   "id": "/",
   "prefer_related_applications": false,
   "icons": [
@@ -95,6 +95,24 @@
       "form_factor": "narrow"
     },
     {
+      "src": "screenshots/screen-narrow-4.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/screen-narrow-5.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/screen-narrow-6.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
       "src": "screenshots/screen-wide-1.png",
       "type": "image/png",
       "sizes": "720x540",
@@ -111,6 +129,24 @@
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
+    },
+    {
+      "src": "screenshots/screen-wide-4.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshots/screen-wide-5.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshots/screen-wide-6.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
     }
   ],
   "shortcuts": [
@@ -121,10 +157,10 @@
           "sizes": "96x96"
         }
       ],
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://blogger-pwa.blogspot.com/search/label/shortcut-1?utm_source=homescreen"
+      "name": "Chanuka",
+      "short_name": "Chanuka",
+      "description": "Chanuka - General Knowledge",
+      "url": "https://tutamexpress.blogspot.com/search/label/Chanuka?utm_source=homescreen"
     },
     {
       "icons": [
@@ -133,10 +169,10 @@
           "sizes": "96x96"
         }
       ],
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://blogger-pwa.blogspot.com/search/label/shortcut-2?utm_source=homescreen"
+      "name": "Technology",
+      "short_name": "Tech",
+      "description": "Technology news and updates",
+      "url": "https://tutamexpress.blogspot.com/search/label/Technology?utm_source=homescreen"
     }
   ]
 }
