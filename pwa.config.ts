@@ -4,7 +4,7 @@ export default defineConfig({
   manifest: {
     id: '/',
     name: 'Tutam Express',
-    short_name: 'Tutam',
+    short_name: 'TutamExpress',
     description: 'Latest news in politics, business, technology, sports and entertainment in Kenya, Africa and the world.',
     dir: 'ltr',
     lang: 'en-KE',
@@ -17,16 +17,31 @@ export default defineConfig({
     prefer_related_applications: false,
     shortcuts: [
       {
-        name: 'Chanuka',
-        short_name: 'Chanuka',
-        description: 'Chanuka - General Knowledge',
-        url: '/search/label/Chanuka?utm_source=homescreen',
+        name: 'Tutam Express News',
+        short_name: 'TutamExpress',
+        description: 'Tutam Express Political News and Updates',
+        url: '/search/label/TutamExpress?utm_source=homescreen',
       },
+
       {
-        name: 'Technology',
-        short_name: 'Tech',
-        description: 'Technology news and updates',
-        url: '/search/label/Technology?utm_source=homescreen',
+        name: 'Trending News',
+        short_name: 'TrendingNews',
+        description: 'Trending News and Updates in Political, Business, Technology, Sports and Entertainment',
+        url: '/search/label/Trending?utm_source=homescreen',
+      },
+
+      {
+        name: 'Entertainment News',
+        short_name: 'Entertainment',
+        description: 'Entertainment news and updates',
+        url: '/search/label/Entertainment?utm_source=homescreen',
+      },
+
+      {
+        name: 'Sports News',
+        short_name: 'SportsNews',
+        description: 'Sports news and updates',
+        url: '/search/label/Sports?utm_source=homescreen',
       },
     ],
   },
