@@ -1,6 +1,6 @@
 {
   "name": "Tutam Express",
-  "short_name": "Tutam",
+  "short_name": "TutamExpress",
   "description": "Latest news in politics, business, technology, sports and entertainment in Kenya, Africa and the world.",
   "dir": "ltr",
   "lang": "en-KE",
@@ -157,10 +157,10 @@
           "sizes": "96x96"
         }
       ],
-      "name": "Chanuka",
-      "short_name": "Chanuka",
-      "description": "Chanuka - General Knowledge",
-      "url": "https://tutamexpress.blogspot.com/search/label/Chanuka?utm_source=homescreen"
+      "name": "Tutam Express News",
+      "short_name": "TutamExpress",
+      "description": "Tutam Express Political News and Updates",
+      "url": "https://tutamexpress.blogspot.com/search/label/TutamExpress?utm_source=homescreen"
     },
     {
       "icons": [
@@ -169,10 +169,34 @@
           "sizes": "96x96"
         }
       ],
-      "name": "Technology",
-      "short_name": "Tech",
-      "description": "Technology news and updates",
-      "url": "https://tutamexpress.blogspot.com/search/label/Technology?utm_source=homescreen"
+      "name": "Trending News",
+      "short_name": "TrendingNews",
+      "description": "Trending News and Updates in Political, Business, Technology, Sports and Entertainment",
+      "url": "https://tutamexpress.blogspot.com/search/label/Trending?utm_source=homescreen"
+    },
+    {
+      "icons": [
+        {
+          "src": "icons/android-chrome-96x96.png",
+          "sizes": "96x96"
+        }
+      ],
+      "name": "Entertainment News",
+      "short_name": "Entertainment",
+      "description": "Entertainment news and updates",
+      "url": "https://tutamexpress.blogspot.com/search/label/Entertainment?utm_source=homescreen"
+    },
+    {
+      "icons": [
+        {
+          "src": "icons/android-chrome-96x96.png",
+          "sizes": "96x96"
+        }
+      ],
+      "name": "Sports News",
+      "short_name": "SportsNews",
+      "description": "Sports news and updates",
+      "url": "https://tutamexpress.blogspot.com/search/label/Sports?utm_source=homescreen"
     }
   ]
 }
